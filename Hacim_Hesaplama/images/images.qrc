@@ -1,0 +1,30 @@
+<RCC>
+  <qresource prefix="images">
+    <file>cpu (1).png</file>
+    <file>cpu (2).png</file>
+    <file>cpu (3).png</file>
+    <file>gpu (1).png</file>
+    <file>gpu (2).png</file>
+    <file>graphic-card.png</file>
+    <file>ram (2).png</file>
+    <file>ram (3).png</file>
+    <file>cpu.png</file>
+    <file>gpu.png</file>
+    <file>hardware.png</file>
+    <file>ram (1).png</file>
+    <file>ram.png</file>
+    <file>diskette (1).png</file>
+    <file>pie-chart.png</file>
+    <file>bar.png</file>
+    <file>diskette.png</file>
+    <file>growth.png</file>
+    <file>csv (1).png</file>
+    <file>csv.png</file>
+    <file>pdf (1).png</file>
+    <file>pdf.png</file>
+    <file>play-button (1).png</file>
+    <file>play-button.png</file>
+    <file>stop-button (1).png</file>
+    <file>stop-button.png</file>
+  </qresource>
+</RCC>
