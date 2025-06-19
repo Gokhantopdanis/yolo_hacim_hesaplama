@@ -37,7 +37,7 @@ python main.py
 ![Ana Ekran](home.PNG)
 
 ### Kamera Görüntüsü
-![Kamera Görüntüsü](start.PNG)
+![Kamera Görüntüsü](start.jpg)
 
 ### Sistem Bilgileri
 ![Sistem Bilgileri](system_info.PNG)
